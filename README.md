@@ -1,7 +1,7 @@
 # sparta_appium_cucumber
 
 ## Introduction
-This set of work involves looking into understanding mobile testing, POM(Page Object Model), appium and Android Studioi, how to use it in new ways and using all of this alongside cucumber. Within this repo you will find automation tests created for an mobile budget app.
+This set of work involves looking into understanding mobile testing, POM(Page Object Model), appium and Android Studio, how to use it in new ways and using all of this alongside cucumber. Within this repo you will find automation tests created for an mobile budget app.
 ## Getting started
 Simply clone the repository to your computer to get started with this rspec introduction. The cucumber gem has to be install using the command. 
 ```
